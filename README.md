@@ -13,6 +13,7 @@ A flutter chat app using docker container rethinkDb
 # Instructions
 <ul>
 <li>create a flutter package called chat to handle the models and services</li>
+<li>add sqflite for local storage</li>
 </ul> 
 
 
