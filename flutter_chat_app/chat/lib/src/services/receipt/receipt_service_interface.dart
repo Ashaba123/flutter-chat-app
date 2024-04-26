@@ -1,4 +1,5 @@
 import 'dart:async';
+
 import 'package:chat/src/models/receipt.dart';
 import 'package:chat/src/models/user.dart';
 import 'package:chat/src/utils/utils.dart';

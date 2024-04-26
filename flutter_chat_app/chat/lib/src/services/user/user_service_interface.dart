@@ -1,3 +1,4 @@
+
 import 'package:chat/src/models/user.dart';
 import 'package:rethink_db_ns/rethink_db_ns.dart';
 

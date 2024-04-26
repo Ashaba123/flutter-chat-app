@@ -6,6 +6,8 @@ import 'package:chat/src/services/encryption/encryption_interface.dart';
 import 'package:chat/src/utils/utils.dart';
 import 'package:rethink_db_ns/rethink_db_ns.dart';
 
+
+
 abstract class IMessageService {
   Future<bool> send(Message message);
   Stream<Message> messages({required User activeUser});
